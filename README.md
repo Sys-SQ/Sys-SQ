@@ -12,3 +12,8 @@ Actualmente estoy comprendiendo el mundo del **Desarrollo** y me encuentro apren
 
 **Control de versiones**:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sys-SQ&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-SQ&langs_count=8)
+
