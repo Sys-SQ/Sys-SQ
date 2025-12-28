@@ -1,6 +1,6 @@
-# ¡Hola! Soy un estudiante de La Paz, Bolivia ![Development](https://img.shields.io/badge/Development-000000?style=flat&logo=dev.to&logoColor=white) ![Server](https://img.shields.io/badge/Server-000000?style=flat&logo=apache&logoColor=white) ![Wave](https://img.shields.io/badge/Wally-000000?style=flat&logo=github&logoColor=white) 
+# ¡Hola! Soy de La Paz, Bolivia ![Development](https://img.shields.io/badge/Development-000000?style=flat&logo=dev.to&logoColor=white) ![Server](https://img.shields.io/badge/Server-000000?style=flat&logo=apache&logoColor=white) ![Wave](https://img.shields.io/badge/Wally-000000?style=flat&logo=github&logoColor=white) 
 
-Actualmente estoy comprendiendo el mundo del **Desarrollo** y me encuentro aprendiendo sobre diversas tecnologías y frameworks. Tengo conocimientos básicos en el **área de Sistemas** y continúo aprendiendo sobre redes, servidores y administración de sistemas.
+Actualmente estoy en el mundo del **Desarrollo** y me encuentro aprendiendo sobre diversas tecnologías y frameworks. Tengo conocimientos básicos en el **área de Sistemas** y continúo aprendiendo sobre redes, servidores y administración de sistemas.
 
 ## Herramientas y Tecnologías:
 
@@ -12,8 +12,3 @@ Actualmente estoy comprendiendo el mundo del **Desarrollo** y me encuentro apren
 
 **Control de versiones**:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sys-SQ&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-SQ&langs_count=8)
-
