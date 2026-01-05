@@ -1,4 +1,4 @@
-# ¡Hola! Soy de La Paz, Bolivia Oliver ![Development](https://img.shields.io/badge/Development-000000?style=flat&logo=dev.to&logoColor=white) ![Server](https://img.shields.io/badge/Server-000000?style=flat&logo=apache&logoColor=white) ![Wave](https://img.shields.io/badge/Wally-000000?style=flat&logo=github&logoColor=white) 
+# ¡Hola! Soy de La Paz, Bolivia ![Development](https://img.shields.io/badge/Development-000000?style=flat&logo=dev.to&logoColor=white) ![Server](https://img.shields.io/badge/Server-000000?style=flat&logo=apache&logoColor=white) ![Wave](https://img.shields.io/badge/Wally-000000?style=flat&logo=github&logoColor=white) 
 
 Actualmente estoy en el mundo del **Desarrollo** y me encuentro aprendiendo sobre diversas tecnologías y frameworks. Tengo conocimientos básicos en el **área de Sistemas** y continúo aprendiendo sobre redes, servidores y administración de sistemas.
 
